@@ -1,18 +1,19 @@
 
 # An introduction to NLP
 ### Level: Beginner
-### Presentation: (link to your presentation if exists)
+### Presentation: 
+https://colab.research.google.com/drive/1-1jIY9LM1axKWgtz3-95k2xgUCGJHcca?usp=sharing
 
 ## Workshop description
-Describe why your topic is important and what you want to share with your audience
+This workshop will give an overview of common NLP techniques such as part of speech tagging and named entity 
+recognition. You will get some hands-on experience with common NLP tasks in Python, from the first preprocessing 
+steps to the visual inspection of trained models using populair NLP libraries such as NLTK, spaCy, and gensim.
 
 ## Requirements
-Do not forget to indicate Python version and any other tools
-+ add requirements.txt or conda.yml or docker image or Binder/Google Collab link
+You need a Google account to be able to access and use the Colab notebook.
 
 ## Usage
-* Clone the repository
-* Start { TOOL } and navigate to the workshop folder
+Click on the link provided above to open the Colab notebook.
 
 ## Video record
 Will be available within 1-2 weeks after the event
